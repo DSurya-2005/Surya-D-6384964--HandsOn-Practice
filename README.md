@@ -1,5 +1,5 @@
-## Weekly Hands-On & Coding Exercises
 # Surya-D-6384964--HandsOn-Practice
+## Weekly Hands-On & Coding Exercises
 
 Welcome to the **Weekly Hands-On & Coding Exercises** repository! 
 This space is dedicated to improving programming skills, mastering new concepts, and reinforcing technical knowledge through consistent weekly practice.
